@@ -40,7 +40,6 @@ function timSNT() {
   KQ.innerHTML = `<div>Các số nguyên tố trong khoảng ${value1} - ${value2}: ${arr}</div> 
   <div>Tổng các số nguyên tố vừa tìm được là: ${total}</div>
   `;
-  arr = "";
 }
 
 btn.onclick = timSNT;
