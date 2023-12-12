@@ -28,4 +28,6 @@
 
 .data input {
   height: 50px;
+  outline: none;
+  font-size: 20px;
 }
